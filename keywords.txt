@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For BinaryProtocol
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+BinaryProtocol	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+sendPacket		KEYWORD2
+sendIRQ			KEYWORD2
+doWork			KEYWORD2
+setCallback 	KEYWORD2
+setIrqCallback 	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
